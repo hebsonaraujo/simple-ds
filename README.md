@@ -14,4 +14,5 @@ First, run Storybook:
 
 ```bash
 npm run storybook
+```
 ![image](/public/image.png)
