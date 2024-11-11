@@ -1,6 +1,6 @@
 # Simple Design System
 
-This project is a simple design system built with [Next.js](https://nextjs.org/) and [Storybook](https://storybook.js.org/). It includes a collection of reusable components, styled with [Tailwind CSS](https://tailwindcss.com/) and custom fonts.
+This is a small sample of a design system built with [Next.js](https://nextjs.org/) and [Storybook](https://storybook.js.org/). It includes a collection of reusable components, styled with [Tailwind CSS](https://tailwindcss.com/) and custom fonts.
 
 - **Simple Design System**, based on the [Atomic Design](https://atomicdesign.bradfrost.com/chapter-2/) methodology.
 - **Design inspired by**: [Layout on Figma](https://www.figma.com/community/file/1335673212969292007).
@@ -14,3 +14,4 @@ First, run Storybook:
 
 ```bash
 npm run storybook
+![image](https://github.com/user-attachments/assets/1c90646d-f233-4208-a62c-1ab08e52d123)
