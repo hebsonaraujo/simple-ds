@@ -14,4 +14,4 @@ First, run Storybook:
 
 ```bash
 npm run storybook
-![image](https://github.com/user-attachments/assets/1c90646d-f233-4208-a62c-1ab08e52d123)
+![image](/public/image.png)
