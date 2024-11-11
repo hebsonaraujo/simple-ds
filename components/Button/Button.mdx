@@ -1,0 +1,35 @@
+import { Meta, Controls, Primary, Canvas, Story } from '@storybook/blocks';
+
+import * as ButtonStories from './Button.stories';
+
+<Meta of={ButtonStories} />
+
+# Button
+
+ This is a button component
+
+ <Primary />
+
+## Props
+
+ <Controls/>
+
+## Stories
+
+### Primary
+
+ A button can be of primary importance.
+
+## Primary
+<Canvas of={ButtonStories.Primary}/>
+## Disabled
+<Canvas of={ButtonStories.Disabled}/>
+## Secondary Dark
+<Canvas of={ButtonStories.SecondaryDark}/>
+## Secondary Dark Disabled
+<Canvas of={ButtonStories.SecondaryDarkDisabled}/>
+## Secondary Light
+<Canvas of={ButtonStories.SecondaryLight}/>
+## Secondary Light Disabled
+<Canvas of={ButtonStories.SecondaryLightDisabled}/>
+
